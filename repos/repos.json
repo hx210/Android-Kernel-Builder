@@ -2,10 +2,10 @@
 {
   "kernelSource": {
     "name": "UI4.0-Stable-KernelSU-GTNeoSeries",
-    "repo": "https://github.com/chilan666/kernel_realme_RMX3031",
-    "branch": "T-Backup",
-    "device": "cupida",
-    "defconfig": "cupida_defconfig"
+    "repo": "https://github.com/EmanuelCN/android_kernel_lge_sdm845",
+    "branch": "T",
+    "device": "judyp",
+    "defconfig": "judyp_lao_com_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
@@ -46,10 +46,10 @@
 {
   "kernelSource": {
     "name": "UI4.0-Updated-KernelSU-GTNeoSeries-Kernel",
-    "repo": "https://github.com/nishant6342/kernel_realme_RMX3031",
+    "repo": "https://github.com/EmanuelCN/android_kernel_lge_sdm845",
     "branch": "T",
-    "device": "cupida",
-    "defconfig": "cupida_defconfig"
+    "device": "judyp",
+    "defconfig": "judyp_lao_com_defconfig"
   },
   "withKernelSU": true,
   "toolchains": [
